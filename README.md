@@ -28,3 +28,7 @@ RESULTS:
 # Screenshots
 ![image](https://user-images.githubusercontent.com/45188716/143729724-3d50c091-e46c-4587-948d-7989de5ed1d4.png)
 ![image](https://user-images.githubusercontent.com/45188716/143729805-9cfd1809-29c6-4cbd-926a-5913399cb9b4.png)
+
+# Limitations and future improvements
+1. Cuda version optical flow algorithms (need c++). 
+2. Sparse optical flow algorithm. We tried cv2.calcOpticalFlowPyrLK. Since the algorithm requires some feature points, but the number of cars in the video increase or reduce with the change of time, so can not persude myself...
