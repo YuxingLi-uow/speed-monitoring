@@ -1,6 +1,0 @@
-
-YOLOv3: FPS=20
-YOLOv3 + optical flow: FPS=11
-
-tiny YOLOv3: FPS=30
-tiny YOLOv3 + optical flow: FPS=15
